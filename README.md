@@ -10,9 +10,8 @@
   <h3>Crafting high-performance systems and modular frameworks.</h3>
   <p>I specialize in building optimized workflows and unlocking engine capabilities, currently leading the development of <strong>Nodeal</strong>.</p>
 
-  <a href="https://ko-fi.com/S6S21TCSQ6" target="_blank">
+  <a href="https://ko-fi.com/getnodeal" target="_blank">
     <img src="./assets/support-nodeal.svg" height="44" alt="Support Nodeal" />
-
   </a>
 
   <a href="https://github.com/furymob-git">GitHub</a>

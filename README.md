@@ -55,14 +55,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furymob-git&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
----
-
 ### 🚀 Projects
 
 <table border="0" cellpadding="0" cellspacing="0">

@@ -60,7 +60,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><img src="https://www.nodeal.dev/assets/icon.png" width="25" valign="middle"></td>
-    <td style="padding-left: 5px;"><strong><a href="https://github.com/furymob-git/Nodeal">Nodeal</a></strong> • Rethinking the Roblox engine. <a href="https://www.nodeal.dev/"><strong>Visit Website <img src="https://api.iconify.design/lucide:arrow-right.svg?color=%2358a6ff" width="14" style="vertical-align: middle;"></strong></a></td>
+    <td style="padding-left: 5px;"><strong><a href="https://github.com/nodeal-framework">Nodeal</a></strong> • Rethinking the Roblox engine. <a href="https://www.nodeal.dev/"><strong>Visit Website <img src="https://api.iconify.design/lucide:arrow-right.svg?color=%2358a6ff" width="14" style="vertical-align: middle;"></strong></a></td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" width="25" valign="middle"></td>
